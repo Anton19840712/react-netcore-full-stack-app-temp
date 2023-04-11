@@ -1,0 +1,1 @@
+# react-netcore-full-stack-app
